@@ -87,7 +87,7 @@
 
         <div align="center">
 
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal9640)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivishalkotari)
         [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal9640)
 
         </div>
@@ -99,18 +99,16 @@
 
         <div align="center">
 
-        <img src="https://github-readme-stats.vercel.app/api?username=vishal9640&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="vishal9640's GitHub Stats" width="48%" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal9640&theme=tokyonight&hide_border=true" alt="vishal9640's GitHub Streak" width="48%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=vishal9640&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal9640&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
         </div>
 
         <div align="center">
 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal9640&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="vishal9640's Top Languages" width="50%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal9640&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%" alt="Top Languages" />
 
         </div>
-
-        ---
 
         <!-- SECTION F: GITHUB TROPHIES -->
         ## 🏆 GitHub Trophies
@@ -130,7 +128,7 @@
 
         I'm always open to interesting conversations, collaborations, and opportunities. Feel free to reach out!
 
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal9640)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivishalkotari)
         [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal9640)
 
         <br/>
